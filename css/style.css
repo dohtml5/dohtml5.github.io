@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 html {
-  font-family: sans-serif;
+  font-family: "Microsoft yahei", sans-serif;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
@@ -121,7 +121,7 @@ code,
 kbd,
 pre,
 samp {
-  font-family: monospace, monospace;
+  font-family: "Microsoft yahei", monospace, monospace;
   font-size: 1em;
 }
 
@@ -312,7 +312,7 @@ th {
   }
 }
 @font-face {
-  font-family: 'Glyphicons Halflings';
+  font-family: "Microsoft yahei", 'Glyphicons Halflings';
   src: url("../fonts/bootstrap/glyphicons-halflings-regular.eot");
   src: url("../fonts/bootstrap/glyphicons-halflings-regular.eot?#iefix") format("embedded-opentype"), url("../fonts/bootstrap/glyphicons-halflings-regular.woff2") format("woff2"), url("../fonts/bootstrap/glyphicons-halflings-regular.woff") format("woff"), url("../fonts/bootstrap/glyphicons-halflings-regular.ttf") format("truetype"), url("../fonts/bootstrap/glyphicons-halflings-regular.svg#glyphicons_halflingsregular") format("svg");
 }
@@ -320,7 +320,7 @@ th {
   position: relative;
   top: 1px;
   display: inline-block;
-  font-family: 'Glyphicons Halflings';
+  font-family: "Microsoft yahei", 'Glyphicons Halflings';
   font-style: normal;
   font-weight: normal;
   line-height: 1;
@@ -1396,7 +1396,7 @@ html {
 }
 
 body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Microsoft yahei", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.42857;
   color: #333333;
@@ -1880,7 +1880,7 @@ code,
 kbd,
 pre,
 samp {
-  font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
+  font-family: "Microsoft yahei", Menlo, Monaco, Consolas, "Courier New", monospace;
 }
 
 code {
@@ -6541,7 +6541,7 @@ button.close {
   position: absolute;
   z-index: 1070;
   display: block;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Microsoft yahei", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   letter-spacing: normal;
@@ -6663,7 +6663,7 @@ button.close {
   display: none;
   max-width: 276px;
   padding: 1px;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Microsoft yahei", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   letter-spacing: normal;
@@ -6936,7 +6936,7 @@ button.close {
   width: 20px;
   height: 20px;
   line-height: 1;
-  font-family: serif;
+  font-family: "Microsoft yahei", serif;
 }
 .carousel-control .icon-prev:before {
   content: '\2039';
@@ -7323,7 +7323,7 @@ button.close {
   }
 }
 body {
-  font-family: "Roboto", arial, sans-serif;
+  font-family: "Microsoft yahei", "Roboto", arial, sans-serif;
   font-weight: 300;
   font-size: 14px;
   line-height: 26px;
@@ -7397,7 +7397,7 @@ p {
   line-height: 93px;
   font-size: 72px;
   font-weight: 700 !important;
-  font-family: "Montserrat", arial, sans-serif;
+  font-family: "Microsoft yahei", "Montserrat", arial, sans-serif;
   text-transform: uppercase;
   letter-spacing: 5px;
   margin: 0;
@@ -7411,8 +7411,8 @@ p {
 .fh5co-intro-wrap .fh5co-intro .fh5co-intro-sub {
   font-size: 31px;
   font-weight: 300;
-  font-family: "Roboto", arial, sans-serif;
-  font-family: "Sanchez", times, serif;
+  font-family: "Microsoft yahei", "Roboto", arial, sans-serif;
+  font-family: "Microsoft yahei", "Sanchez", times, serif;
   line-height: 51px;
   margin: 0 0 2.5em 0;
 }
@@ -7449,9 +7449,9 @@ p {
 }
 
 .fh5co-section-heading {
-  font-family: "Montserrat", arial, sans-serif;
+  font-family: "Microsoft yahei", "Montserrat", arial, sans-serif;
   margin: 0;
-  font-size: 14px;
+  font-size: 18px;
   position: relative;
   font-weight: 400;
   padding-bottom: 10px;
@@ -7579,7 +7579,7 @@ p {
   z-index: 9;
   color: #fff;
   font-size: 20px;
-  font-family: "Sanchez", times, serif;
+  font-family: "Microsoft yahei", "Sanchez", times, serif;
   opacity: 0;
 }
 
@@ -7610,16 +7610,16 @@ p {
   font-size: 30px;
   line-height: 41px;
   color: #fff;
-  font-family: "Sanchez", times, serif;
+  font-family: "Microsoft yahei", "Sanchez", times, serif;
 }
 .fh5co-testimony blockquote > p em {
-  font-family: "Playfair Display", times, serif;
+  font-family: "Microsoft yahei", "Playfair Display", times, serif;
   font-style: italic;
   font-weight: 400;
 }
 .fh5co-testimony blockquote > p .author {
   font-size: 18px;
-  font-family: "Montserrat", arial, sans-serif;
+  font-family: "Microsoft yahei", "Montserrat", arial, sans-serif;
   font-style: normal;
   display: block;
   font-weight: 400;
@@ -7627,7 +7627,7 @@ p {
 }
 
 .fh5co-contact {
-  color: rgba(255, 255, 255, 0.7);
+  color: rgba(255, 255, 255, 1);
   padding: 0;
   margin: 0 0 1.5em 0;
 }
@@ -7688,9 +7688,8 @@ p {
   font-size: 12px;
 }
 .fh5co-accordion .fh5co-accordion-head > h3 {
-  font-size: 18px;
-  font-family: "Playfair Display", times, serif;
-  font-style: italic;
+  font-size: 16px;
+  font-family: "Microsoft yahei", "Playfair Display", times, serif;
   color: #000;
   margin: 0;
   padding: 1.5em .5em;
@@ -7715,7 +7714,7 @@ p {
   display: block;
   color: #fff;
   width: 100%;
-  font-family: "Sanchez", times, serif;
+  font-family: "Microsoft yahei", "Sanchez", times, serif;
   margin-bottom: .5em;
 }
 
@@ -7723,7 +7722,7 @@ p {
   color: #fff;
   text-transform: uppercase;
   font-size: 13px;
-  font-family: "Montserrat", arial, sans-serif;
+  font-family: "Microsoft yahei", "Montserrat", arial, sans-serif;
   letter-spacing: 5px;
   margin-bottom: 2em;
   display: block;
