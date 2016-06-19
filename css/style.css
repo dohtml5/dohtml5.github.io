@@ -7607,6 +7607,7 @@ p {
   padding-left: none;
 }
 .fh5co-testimony blockquote > p {
+  text-align: left;
   font-size: 30px;
   line-height: 41px;
   color: #fff;
@@ -7618,6 +7619,7 @@ p {
   font-weight: 400;
 }
 .fh5co-testimony blockquote > p .author {
+  text-align: right;
   font-size: 18px;
   font-family: "Microsoft yahei", "Montserrat", arial, sans-serif;
   font-style: normal;
