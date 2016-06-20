@@ -370,7 +370,7 @@
 			parallax();
 		}
 
-		imgHover();
+		// imgHover();
 		accordion();
 		smoothScroll();
 		scrlTop();

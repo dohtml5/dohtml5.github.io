@@ -7568,7 +7568,7 @@ p {
   top: 0;
   background: rgba(68, 218, 130, 0.9);
   z-index: 8;
-  opacity: 0;
+  /*opacity: 0;*/
 }
 .fh5co-project > a .fh5co-overlay-text {
   position: absolute;
@@ -7580,7 +7580,7 @@ p {
   color: #fff;
   font-size: 20px;
   font-family: "Microsoft yahei", "Sanchez", times, serif;
-  opacity: 0;
+  /*opacity: 0;*/
 }
 
 .form-control {
