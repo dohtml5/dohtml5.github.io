@@ -7414,7 +7414,7 @@ p {
   font-family: "Microsoft yahei", "Roboto", arial, sans-serif;
   font-family: "Microsoft yahei", "Sanchez", times, serif;
   line-height: 51px;
-  margin: 0 0 2.5em 0;
+  margin: 1em 0 1.5em 0;
 }
 @media screen and (max-width: 768px) {
   .fh5co-intro-wrap .fh5co-intro .fh5co-intro-sub {
@@ -7426,6 +7426,7 @@ p {
   color: rgba(255, 255, 255, 0.7);
   border-bottom: 1px solid rgba(255, 255, 255, 0.4);
   text-decoration: none;
+  margin: 0 10px;
 }
 .fh5co-intro-wrap .fh5co-intro a:hover {
   color: white;
